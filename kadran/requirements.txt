@@ -1,0 +1,3 @@
+# EV Dashboard — Python dependencies
+pygame>=2.1.0
+python-can>=4.0.0
